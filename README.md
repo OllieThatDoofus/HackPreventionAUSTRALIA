@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HackPreventionAUSTRALIA
-- 👀 I’m interested in: Efficiency.
-- 🌱 I’m currently learning to: Hack and code.
+- 👋 Hi, I’m @OllieThatDoofus
+- 👀 I’m interested in: HTML and games
+- 🌱 I’m currently learning to: Code and use servers
 - 💞️ I’m looking to collaborate on: Big cool projects.
-- 📫 How to reach me: hackpreventionwhh@gmail.com
+- 📫 How to reach me: oliverjwrench@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like virtual machines.
 
